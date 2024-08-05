@@ -1,0 +1,10 @@
+{
+  "@@locale": "en",
+  "title": "Multilingual Contact App",
+  "contacts": "Contacts",
+  "profile": "Profile",
+  "select_picture": "Select Picture",
+  "gallery": "Gallery",
+  "camera": "Camera",
+  "edit_profile": "Edit Profile"
+}
